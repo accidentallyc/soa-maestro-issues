@@ -1,2 +1,2 @@
-# soa-maestro-issuse
-soa-maestro-issuse
+# soa-maestro-issues
+soa-maestro-issues
